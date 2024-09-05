@@ -1,0 +1,46 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/exotic-green-leaves_23-2147677728.jpg?t=st=1725477000~exp=1725480600~hmac=cea62bb5e6811b68e4b8c062bc321dc8f10e7f0ab5d99d7f7c894d5a66396189&w=996);
+    background-position: center;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+*{
+    font-family: "New Amsterdam", sans-serif;
+}
+
+
+.btn-success {
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+}
+
+.btn-success:hover {
+    background-color: #28a745;
+}
+
+.list-group-item {
+    background-color: #2d2c2c;
+    border: none;
+    color: #ddd;
+    transition: background-color 0.3s ease;
+}
+
+.list-group-item:hover {
+    background-color: #555;
+}
+
+
+a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+
+#result {
+    transition: all 0.3s ease;
+}
+
+  
